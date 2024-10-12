@@ -26,11 +26,6 @@ public class Viewer {
         frame.setLayout(null);
         frame.add(buttonOne);
         frame.add(buttonTwo);
-        // frame.add(buttonLambdas);
-        // frame.add(buttonAnonimous);
-        // frame.add(buttonInner);
-        // frame.add(buttonMVC);
-        // frame.add(buttonThis);
         frame.setLocation(600, 300);
         frame.setVisible(true);
     }
